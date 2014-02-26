@@ -1,1 +1,7 @@
 The Graphical Thread Profiler is a simple tool to allow easy visualisation of threads, processes or any paralell python code.
+
+1. Run the example code thread_demo.py
+2. Run the GraphicalThreadProcessor with the log file as an output.
+3. Look at the resulting html file.
+
+Make your logging configuration compatable with the one in thread_demo to see any code.
